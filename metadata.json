@@ -1,0 +1,5 @@
+{
+  "name": "RQ Alarms Dispatch & Feedback",
+  "description": "An app for RQ Alarms security company. Allows control room to dispatch alarms and drivers to submit feedback with photo analysis.",
+  "requestFramePermissions": ["camera"]
+}
